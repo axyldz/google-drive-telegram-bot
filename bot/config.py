@@ -2,7 +2,7 @@ class config:
     BOT_TOKEN = "1747129424:AAGZEGZ4Dldjt7T0sSFA-VvTd3cLY0eAxNs"
     APP_ID = "3425496"
     API_HASH = "9eb3ab9a89c9ae6e6b6097ed20fc2a04"
-    DATABASE_URL = ""
+    DATABASE_URL = "postgres://fwxwglolsdjooo:6947acf70ea287dcce77561a28c01233674b274e6aa40f89b766b8da0796df61@ec2-52-23-190-126.compute-1.amazonaws.com:5432/dcp3m0901k3o3p"
     SUDO_USERS = "1021455562" # Sepearted by space.
     SUPPORT_CHAT_LINK = "https://t.me/ayesyoutube"
     DOWNLOAD_DIRECTORY = "./downloads/"
