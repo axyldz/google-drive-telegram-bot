@@ -1,13 +1,13 @@
 class config:
-    BOT_TOKEN = ""
-    APP_ID = ""
-    API_HASH = ""
+    BOT_TOKEN = "1747129424:AAGZEGZ4Dldjt7T0sSFA-VvTd3cLY0eAxNs"
+    APP_ID = "3425496"
+    API_HASH = "9eb3ab9a89c9ae6e6b6097ed20fc2a04"
     DATABASE_URL = ""
-    SUDO_USERS = "" # Sepearted by space.
-    SUPPORT_CHAT_LINK = ""
+    SUDO_USERS = "1021455562" # Sepearted by space.
+    SUPPORT_CHAT_LINK = "https://t.me/ayesyoutube"
     DOWNLOAD_DIRECTORY = "./downloads/"
-    G_DRIVE_CLIENT_ID = ""
-    G_DRIVE_CLIENT_SECRET = ""
+    G_DRIVE_CLIENT_ID = "846897486612-mlk0pir91bos1ql271gq8tva76he7q9d.apps.googleusercontent.com"
+    G_DRIVE_CLIENT_SECRET = "PJcrrn0Qm0yB8zQMffsUjaUN"
 
 
 class BotCommands:
